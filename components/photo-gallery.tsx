@@ -7,7 +7,7 @@ import { motion } from "framer-motion"
 export default function PhotoGallery() {
   // This would be replaced with actual photos
   const photos = [
-    { id: 1, src: "/placeholder.svg?height=400&width=600", alt: "Our first date" },
+    { id: 1, src: "/images/1st.jpg", alt: "Our first date" },
     { id: 2, src: "/placeholder.svg?height=400&width=600", alt: "Summer vacation" },
     { id: 3, src: "/placeholder.svg?height=400&width=600", alt: "Birthday celebration" },
     { id: 4, src: "/placeholder.svg?height=400&width=600", alt: "Holiday memories" },
